@@ -219,19 +219,19 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
-    color: #{{ site.data.template.color.primary }};
+    color: #848484;
 }
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
     color: #fff;
-    background-color: #{{ site.data.template.color.primary }};
+    background-color: #848484;
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
     color: #fff;
-    background-color: #{{ site.data.template.color.secondary }};
+    background-color:#848484;
 }
 
 @media(min-width:768px) {
@@ -269,7 +269,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
+    background-color: #222;
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -335,7 +335,6 @@ section h2.section-heading {
 }
 
 section h3.section-subheading {
-    margin-bottom: 75px;
     text-transform: none;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 16px;
