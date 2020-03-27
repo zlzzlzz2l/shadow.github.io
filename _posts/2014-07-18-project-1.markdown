@@ -1,6 +1,6 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: 세미나
+subtitle: 월 1회 세미나
 layout: default
 modal-id: 1
 date: 2014-07-18
