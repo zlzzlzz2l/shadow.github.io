@@ -1,6 +1,6 @@
 ---
-title: 세미나
-subtitle: 월 1회 세미나
+title: 공지사항
+# subtitle: 세미나 및 여러가지 행사에 대한 공지
 layout: default
 modal-id: 1
 date: 2014-07-18

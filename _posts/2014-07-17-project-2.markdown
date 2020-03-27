@@ -1,6 +1,6 @@
 ---
-title: 분석보고서
-subtitle: 반기 별 3회 CTF 대회 참가 및 보고서 작성
+title: 갤러리
+# subtitle: 행사 사진
 layout: default
 modal-id: 2
 date: 2014-07-17
