@@ -1,0 +1,18 @@
+---
+title: 언론 보도
+# subtitle: 동아리원 뉴스
+modal-id: 3
+thumbnail: newspaper.png
+category: Notice
+---
+
+<div>
+  {% for post in site.posts reversed %}
+    {% if post.category == "Newspaper" %}
+      <li>
+        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }} :  </span>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}" target="_blank">{{ post.title }}</a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</div>

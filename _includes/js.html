@@ -15,3 +15,62 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="{{ "/js/agency.js" | prepend: site.baseurl }}"></script>
+
+
+
+
+
+   <link href='/js/fullcalendar-4.4.0/packages/core/main.css' rel='stylesheet' />
+   <link href='/js/fullcalendar-4.4.0/packages/core/main.css' rel='stylesheet' />
+   <link href='/js/fullcalendar-4.4.0/packages/daygrid/main.css' rel='stylesheet' />
+   <link href='/js/fullcalendar-4.4.0/packages/timegrid/main.css' rel='stylesheet' />
+   <link href='/js/fullcalendar-4.4.0/packages/list/main.css' rel='stylesheet' />
+   <script src='/js/fullcalendar-4.4.0/packages/core/main.js'></script>
+   <script src='/js/fullcalendar-4.4.0/packages/interaction/main.js'></script>
+   <script src='/js/fullcalendar-4.4.0/packages/daygrid/main.js'></script>
+   <script src='/js/fullcalendar-4.4.0/packages/timegrid/main.js'></script>
+   <script src='/js/fullcalendar-4.4.0/packages/list/main.js'></script>
+   <script>
+
+     document.addEventListener('DOMContentLoaded', function() {
+       var calendarEl = document.getElementById('calendar');
+
+       var calendar = new FullCalendar.Calendar(calendarEl, {
+         plugins: [ 'interaction', 'dayGrid', 'timeGrid', 'list' ],
+         header: {
+           left: 'prev,next today',
+           center: 'title',
+           right: 'dayGridMonth,timeGridWeek,timeGridDay,listMonth'
+         },
+         //defaultDate: '2020-01-01',
+         navLinks: true, // can click day/week names to navigate views
+         businessHours: true, // display business hours
+         editable: true,
+         events: [
+           {
+             title: '5월 세미나',
+             start: '2020-05-15'
+           },
+           {
+             title: '웹해킹팀 5월 2차 멘토링',
+             start: '2020-05-20'
+           }
+         ]
+       });
+
+       calendar.render();
+     });
+
+   </script>
+   <style>
+
+     #calendar {
+       max-width: 900px;
+       margin: 0 auto;
+     }
+
+     #calendar .fc-list-table  a {
+       color: black;
+     }
+
+   </style>

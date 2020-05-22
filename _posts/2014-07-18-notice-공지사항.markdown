@@ -1,0 +1,18 @@
+---
+title: 공지사항
+# subtitle: 세미나 및 여러가지 행사에 대한 공지
+modal-id: 1
+thumbnail: notice.png
+category: Notice
+---
+
+<div>
+  {% for post in site.posts reversed %}
+    {% if post.category == "NoticeBoard" %}
+      <li>
+        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }} :  </span>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}" target="_blank">{{ post.title }}</a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</div>

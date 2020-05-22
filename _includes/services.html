@@ -8,56 +8,20 @@
                 </div>
             </div>
             <div class="row text-center">
-                <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary" style="color:grey"></i>
-                        <i class="fa fa-bolt fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="service-heading">비전과 목표</h4>
-                    <p class="text-muted">재학생의 <strong>정보보호 역량을 향상</strong>시키고, 졸업 후 <strong>인적 네트워크 형성</strong>을 위해 설립한 학과 동아리</p>
-                </div>
-                <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary" style="color:grey"></i>
-                        <i class="fa fa-home fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="service-heading">연구실 (동아리 방)</h4>
-                    <p class="text-muted"><strong>ICT융합대학 519호</strong></p>
-                </div>
-                <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary" style="color:grey"></i>
-                        <i class="fa fa-calendar fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="service-heading">연간 일정</h4>
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
-                </div>
-            </div>
-            <div class="row text-center">
-                <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary" style="color:grey"></i>
-                        <i class="fa fa-history fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="service-heading">연혁</h4>
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
-                </div>
-                <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary" style="color:grey"></i>
-                        <i class="fa fa-user fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="service-heading">동아리 인적 사항</h4>
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
-                </div>
-                <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary" style="color:grey"></i>
-                        <i class="fa fa-table fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="service-heading">동아리 기수 표</h4>
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
-                </div>
+                {% for post in site.posts reversed %}
+                    {% if post.category == "Introduction" %}
+                        <div class="col-md-4">
+                            <a href="#{{ post.category }}-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+                                <span class="fa-stack fa-4x">
+                                    <i class="fa fa-circle fa-stack-2x text-primary" style="color:grey"></i>
+                                    <i class="fa {{ post.thumbicon }} fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                            <h4 class="service-heading">{{ post.title }}</h4>
+                            <p class="text-muted">{{ post.description }}</p>
+                        </div>
+                    {% endif %}
+                {% endfor %}
             </div>
         </div>
     </section>

@@ -1,5 +1,5 @@
 url: https://www.shadow.or.kr
-baseurl: /
+baseurl: ""
 
 # Site settings
 title: SHADOW
@@ -63,3 +63,4 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
