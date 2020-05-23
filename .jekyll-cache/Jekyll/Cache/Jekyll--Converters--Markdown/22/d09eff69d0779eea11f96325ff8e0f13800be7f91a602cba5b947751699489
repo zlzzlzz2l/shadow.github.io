@@ -1,4 +1,4 @@
-I"L
+I" 
 <hr />
 <hr />
 
@@ -8,7 +8,7 @@
     </div>
         <div style="float:left; display:block">
             <h4>회장</h4>
-            ![bumseok](https://user-images.githubusercontent.com/48669011/82697262-8a2c9000-9ca3-11ea-90b0-77cbf6b719da.png)
+            <img src="img/team/bumseok.png" alt="ff" width="256" height="256" />
             <h5>김범석</h5>
         </div>
         <div style="float:right; display:block">
