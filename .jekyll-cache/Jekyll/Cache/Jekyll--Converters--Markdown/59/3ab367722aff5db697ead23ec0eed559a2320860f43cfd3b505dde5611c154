@@ -1,9 +1,4 @@
----
-title: 첫 공지사항
-category: NoticeBoard
----
-
-<html>
+I"<html>
 <head>
 </head>
 <body>
@@ -12,3 +7,4 @@ category: NoticeBoard
     </div>
 </body>
 </html>
+:ET
