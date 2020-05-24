@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
+  {% if page.isindex %}
 
-
-    <body id="page-top" class="index">
-
+    {% include head.html %}
+    <body id="page-top" class="index"></body>
     {% include header.html %}
     {% include services.html %}
     {% include portfolio_grid.html %}
@@ -18,4 +17,8 @@
     {% include js.html %}
 
     </body>
+
+    {% else %}
+      {{ content }}
+    {% endif %}  
 </html>
