@@ -50,7 +50,7 @@ description: <strong>동아리 운영진</strong>과 <strong>리버싱</strong>,
                 </tr>
                 <tr>
                     <td>E-mail</td>
-                    <td>E-mail 입력</td>
+                    <td>koobs97@naver.com</td>
                 </tr>
                 <tr>
                     <td>Portfolio</td>
@@ -92,7 +92,7 @@ description: <strong>동아리 운영진</strong>과 <strong>리버싱</strong>,
                 </tr>
                 <tr>
                     <td>E-mail</td>
-                    <td>E-mail 입력</td>
+                    <td>pja1999kr@naver.com</td>
                 </tr>
                 <tr>
                     <td>Portfolio</td>
@@ -113,7 +113,7 @@ description: <strong>동아리 운영진</strong>과 <strong>리버싱</strong>,
                 </tr>
                 <tr>
                     <td>E-mail</td>
-                    <td>E-mail 입력</td>
+                    <td>dragonray@naver.com</td>
                 </tr>
                 <tr>
                     <td>Portfolio</td>
@@ -137,7 +137,7 @@ description: <strong>동아리 운영진</strong>과 <strong>리버싱</strong>,
                 </tr>
                 <tr>
                     <td>E-mail</td>
-                    <td>E-mail 입력</td>
+                    <td>2019Y@kakao.com</td>
                 </tr>
                 <tr>
                     <td>Portfolio</td>
@@ -179,7 +179,7 @@ description: <strong>동아리 운영진</strong>과 <strong>리버싱</strong>,
                 </tr>
                 <tr>
                     <td>E-mail</td>
-                    <td>E-mail 입력</td>
+                    <td>3934kkk@naver.com</td>
                 </tr>
                 <tr>
                     <td>Portfolio</td>
@@ -200,7 +200,7 @@ description: <strong>동아리 운영진</strong>과 <strong>리버싱</strong>,
                 </tr>
                 <tr>
                     <td>E-mail</td>
-                    <td>E-mail 입력</td>
+                    <td>gmlwpfeh38@naver.com</td>
                 </tr>
                 <tr>
                     <td>Portfolio</td>
@@ -221,7 +221,7 @@ description: <strong>동아리 운영진</strong>과 <strong>리버싱</strong>,
                 </tr>
                 <tr>
                     <td>E-mail</td>
-                    <td>E-mail 입력</td>
+                    <td>kangtong1105@gmail.com</td>
                 </tr>
                 <tr>
                     <td>Portfolio</td>
@@ -253,7 +253,7 @@ description: <strong>동아리 운영진</strong>과 <strong>리버싱</strong>,
                 </tr>
                 <tr>
                     <td>Page</td>
-                    <td>http://www.naver.com/blog/zlzzlzz2l</td>
+                    <td><a href="https://blog.naver.com/zlzzlzz2l">https://blog.naver.com/zlzzlzz2l</a></td>
                 </tr>
                 </table>
             </div>
@@ -308,7 +308,7 @@ description: <strong>동아리 운영진</strong>과 <strong>리버싱</strong>,
                 </tr>
                 <tr>
                     <td>E-mail</td>
-                    <td>E-mail 입력</td>
+                    <td>babyhiken@gmail.com</td>
                 </tr>
                 <tr>
                     <td>Portfolio</td>
@@ -329,7 +329,7 @@ description: <strong>동아리 운영진</strong>과 <strong>리버싱</strong>,
                 </tr>
                 <tr>
                     <td>E-mail</td>
-                    <td>E-mail 입력</td>
+                    <td>pjs9177@naver.com</td>
                 </tr>
                 <tr>
                     <td>Portfolio</td>
@@ -350,7 +350,7 @@ description: <strong>동아리 운영진</strong>과 <strong>리버싱</strong>,
                 </tr>
                 <tr>
                     <td>E-mail</td>
-                    <td>E-mail 입력</td>
+                    <td>hyuna8607@naver.com</td>
                 </tr>
                 <tr>
                     <td>Portfolio</td>
@@ -395,7 +395,7 @@ description: <strong>동아리 운영진</strong>과 <strong>리버싱</strong>,
                 </tr>
                 <tr>
                     <td>E-mail</td>
-                    <td>E-mail 입력</td>
+                    <td>lucete387@gmail.com</td>
                 </tr>
                 <tr>
                     <td>Portfolio</td>
