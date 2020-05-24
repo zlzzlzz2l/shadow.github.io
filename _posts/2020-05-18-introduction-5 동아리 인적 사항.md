@@ -15,12 +15,12 @@ description: <strong>동아리 운영진</strong>과 <strong>리버싱</strong>,
     </div>
         <div style="float:left; display:block">
             <h4>회장</h4>
-            <img src="img/team/bumseok.png" alt="ff" width=256 height=256 />
+            <img src="/img/team/bumseok.png" alt="ff" width=256 height=256 />
             <h5>김범석</h5>
         </div>
         <div style="float:right; display:block">
             <h4>부회장</h4>
-            <img src="img/team/suin.jpg" alt="ff" width=256 height=256 />
+            <img src="/img/team/suin.jpg" alt="ff" width=256 height=256 />
             <h5>이수인</h5>
         </div>
 </div>
@@ -41,7 +41,7 @@ description: <strong>동아리 운영진</strong>과 <strong>리버싱</strong>,
     	<div class="tab-content">
     		<div id="home" class="tab-pane fade in active">
     			<h4>Reversing Leader</h4>
-                <img src="img/team/1.jpg" alt="ff" width=256 height=256 />
+                <img src="/img/team/1.jpg" alt="ff" width=256 height=256 />
     			<div>구본상</div>
                 <br>
                 <h4>Member</h4>
@@ -51,7 +51,7 @@ description: <strong>동아리 운영진</strong>과 <strong>리버싱</strong>,
     		</div>
     		<div id="menu1" class="tab-pane fade">
     			<h4>Pwnable Leader</h4>
-                <img src="img/team/2.jpg" alt="ff" width=256 height=256 />
+                <img src="/img/team/2.jpg" alt="ff" width=256 height=256 />
                 <div>정구현</div>
                 <br>
     			<h4>Member</h4>
@@ -61,7 +61,7 @@ description: <strong>동아리 운영진</strong>과 <strong>리버싱</strong>,
     		</div>
     		<div id="menu2" class="tab-pane fade">
     			<h4>Webhacking Leader</h4>
-                <img src="img/team/4.jpg" alt="ff" width=256 height=256 />
+                <img src="/img/team/4.jpg" alt="ff" width=256 height=256 />
                 <div>김아현</div>
                 <br>
     			<h4>Member</h4>
@@ -74,7 +74,7 @@ description: <strong>동아리 운영진</strong>과 <strong>리버싱</strong>,
     		</div>
     		<div id="menu3" class="tab-pane fade">
     			<h4>Forensic Leader</h4>
-                <img src="img/team/5.jpg" alt="ff" width=256 height=256 />
+                <img src="/img/team/5.jpg" alt="ff" width=256 height=256 />
                 <div>최근영</div>
                 <br>
     			<h4>Member</h4>

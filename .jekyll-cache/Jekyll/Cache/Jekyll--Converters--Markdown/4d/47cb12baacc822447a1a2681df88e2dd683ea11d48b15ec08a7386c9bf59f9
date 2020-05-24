@@ -1,9 +1,11 @@
-I"�<div>
+I"�<div>
   <table class="mytable">
       <thead>
         <tr>
           <th>날짜</th>
           <th>제목</th>
+          <th>작성자</th>
+          <th>팀</th>
         </tr>
       </thead>
       <tbody>
@@ -19,56 +21,42 @@
           
         
           
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
             <tr>
-              <td>Mar 28, 2020</td>
-              <td><a href="/semina/2020/03/28/3-month/" target="_blank">3월 세미나</a></td>
+              <td>May 18, 2020</td>
+              <td><a href="/analysis/2020/05/18/webhacking1/" target="_blank">심심하다</a></td>
+              <td>채병권</td>
+              <td>webhacking</td>
             </tr>
-          
-        
-          
-        
-          
-        
-          
-        
-          
-            <tr>
-              <td>Apr 28, 2020</td>
-              <td><a href="/semina/2020/04/28/4-month/" target="_blank">4월 세미나</a></td>
-            </tr>
-          
-        
-          
-        
-          
-        
-          
-            <tr>
-              <td>May 1, 2020</td>
-              <td><a href="/semina/2020/05/01/5-month/" target="_blank">5월 세미나</a></td>
-            </tr>
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
           
         
           
