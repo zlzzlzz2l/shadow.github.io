@@ -1,5 +1,4 @@
-I"!
-<hr />
+I"<hr />
 <hr />
 
 <div>
@@ -8,12 +7,12 @@
     </div>
         <div style="float:left; display:block">
             <h4>회장</h4>
-            <img src="/img/team/bumseok.png" alt="ff" width="256" height="256" />
+            <img src="https://user-images.githubusercontent.com/48669011/82747849-2a83d100-9dd8-11ea-8c62-7ebb049ad838.png" alt="ff" width="256" height="256" />
             <h5>김범석</h5>
         </div>
         <div style="float:right; display:block">
             <h4>부회장</h4>
-            <img src="/img/team/suin.jpg" alt="ff" width="256" height="256" />
+            <img src="https://user-images.githubusercontent.com/48669011/82747855-38395680-9dd8-11ea-9595-32ed66c7b1c5.jpg" alt="ff" width="256" height="256" />
             <h5>이수인</h5>
         </div>
 </div>
@@ -67,7 +66,7 @@
     		</div>
     		<div id="menu3" class="tab-pane fade">
     			<h4>Forensic Leader</h4>
-                <img src="/img/team/5.jpg" alt="ff" width="256" height="256" />
+                <img src="https://user-images.githubusercontent.com/48669011/82747831-fad4c900-9dd7-11ea-8332-1bb271d63cbb.jpg" alt="ff" width="256" height="256" />
                 <div>최근영</div>
                 <br />
     			<h4>Member</h4>
