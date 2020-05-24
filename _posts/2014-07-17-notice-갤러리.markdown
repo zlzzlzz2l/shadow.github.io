@@ -9,7 +9,7 @@ category: Notice
 <div>
     {% for image in site.static_files %}
         {% if image.path contains '/img/gallery' %}
-          <span><img src="{{ image.path }}" alt="{{ image.title}}" width=256 height=256 /></span>
+          <span><img src="{{ image.path }}" alt="{{ image.title}}" width="256" height="256"></span>
         {% endif %}
     {% endfor %}
 </div>
