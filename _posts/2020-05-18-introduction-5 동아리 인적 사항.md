@@ -15,7 +15,7 @@ description: <strong>동아리 운영진</strong>과 <strong>리버싱</strong>,
     </div>
         <div style="float:left; display:block">
             <h4>회장</h4>
-            <img src="https://user-images.githubusercontent.com/48669011/82747849-2a83d100-9dd8-11ea-8c62-7ebb049ad838.png" alt="ff" width=256 height=256 />
+            <img src="https://github.com/zlzzlzz2l/shadow.github.io/blob/gh-pages/img/team/bumseok.png" alt="ff" width=256 height=256 />
             <h5>김범석</h5>
         </div>
         <div style="float:right; display:block">
