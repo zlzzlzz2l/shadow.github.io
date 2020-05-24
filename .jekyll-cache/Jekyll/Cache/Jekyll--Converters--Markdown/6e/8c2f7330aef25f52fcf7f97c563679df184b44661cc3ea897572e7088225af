@@ -1,4 +1,4 @@
-I".<hr />
+I"�%<hr />
 <hr />
 
 <div>
@@ -66,7 +66,7 @@
                 </tr>
                 <tr>
                     <td>Portfolio</td>
-                    <td>http://www.naver.com/blog/zlzzlzz2l</td>
+                    <td><a href="https://blog.naver.com/zlzzlzz2l">https://blog.naver.com/zlzzlzz2l</a></td>
                 </tr>
                 <tr>
                     <td>Page</td>
@@ -116,11 +116,111 @@
                 </tr>
                 </table>
             </div>
-            <div style="float:left; display:block">
-                <img src="https://user-images.githubusercontent.com/48669011/82749800-9cfbad80-9de6-11ea-98d4-585af5b9f89e.jpg" width="150" height="150" />
-                <div>이다영</div>
+            <div style="float:left; display:block; margin-right:30px">
+                <img src="https://user-images.githubusercontent.com/48669011/82752713-f2da5080-9dfa-11ea-90e5-4a7a7374804f.jpg" width="150" height="150" />
+                <table border="1" style="float:right; margin-left:30px; margin-top:40px" width="450" height="80">
+                <tr>
+                    <td>Name</td>
+                    <td>이다영</td>
+                </tr>
+                <tr>
+                    <td>E-mail</td>
+                    <td>E-mail 입력</td>
+                </tr>
+                <tr>
+                    <td>Portfolio</td>
+                    <td>포트폴리오 주소 입력</td>
+                </tr>
+                <tr>
+                    <td>Page</td>
+                    <td>개인 페이지 입력</td>
+                </tr>
+                </table>
             </div>
-            
+            <div style="float:left; display:block; margin-right:30px">
+                <img src="https://user-images.githubusercontent.com/48669011/82752713-f2da5080-9dfa-11ea-90e5-4a7a7374804f.jpg" width="150" height="150" />
+                <table border="1" style="float:right; margin-left:30px; margin-top:40px" width="450" height="80">
+                <tr>
+                    <td>Name</td>
+                    <td>이다영</td>
+                </tr>
+                <tr>
+                    <td>E-mail</td>
+                    <td>E-mail 입력</td>
+                </tr>
+                <tr>
+                    <td>Portfolio</td>
+                    <td>포트폴리오 주소 입력</td>
+                </tr>
+                <tr>
+                    <td>Page</td>
+                    <td>개인 페이지 입력</td>
+                </tr>
+                </table>
+            </div>
+            <div style="float:left; display:block; margin-right:30px">
+                <img src="https://user-images.githubusercontent.com/48669011/82752741-261cdf80-9dfb-11ea-9032-b2dbb0366ab5.jpg" width="150" height="150" />
+                <table border="1" style="float:right; margin-left:30px; margin-top:40px" width="450" height="80">
+                <tr>
+                    <td>Name</td>
+                    <td>박준서</td>
+                </tr>
+                <tr>
+                    <td>E-mail</td>
+                    <td>E-mail 입력</td>
+                </tr>
+                <tr>
+                    <td>Portfolio</td>
+                    <td>포트폴리오 주소 입력</td>
+                </tr>
+                <tr>
+                    <td>Page</td>
+                    <td>개인 페이지 입력</td>
+                </tr>
+                </table>
+            </div>
+            <div style="float:left; display:block; margin-right:30px">
+                <img src="https://user-images.githubusercontent.com/48669011/82752748-3339ce80-9dfb-11ea-9e3b-bdb41e5489f7.jpg" width="150" height="150" />
+                <table border="1" style="float:right; margin-left:30px; margin-top:40px" width="450" height="80">
+                <tr>
+                    <td>Name</td>
+                    <td>조현아</td>
+                </tr>
+                <tr>
+                    <td>E-mail</td>
+                    <td>E-mail 입력</td>
+                </tr>
+                <tr>
+                    <td>Portfolio</td>
+                    <td>포트폴리오 주소 입력</td>
+                </tr>
+                <tr>
+                    <td>Page</td>
+                    <td>개인 페이지 입력</td>
+                </tr>
+                </table>
+            </div>
+            <div style="float:left; display:block; margin-right:30px">
+                <img src="https://user-images.githubusercontent.com/48669011/82752774-69774e00-9dfb-11ea-9756-d5fd58cebb8f.jpg" width="150" height="150" />
+                <table border="1" style="float:right; margin-left:30px; margin-top:40px" width="450" height="80">
+                <tr>
+                    <td>Name</td>
+                    <td>채병권</td>
+                </tr>
+                <tr>
+                    <td>E-mail</td>
+                    <td>E-mail 입력</td>
+                </tr>
+                <tr>
+                    <td>Portfolio</td>
+                    <td>포트폴리오 주소 입력</td>
+                </tr>
+                <tr>
+                    <td>Page</td>
+                    <td>개인 페이지 입력</td>
+                </tr>
+                </table>
+            </div>
     		</div>
     		<div id="menu3" class="tab-pane fade">
     			<h4>Forensic Team</h4>
