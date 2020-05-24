@@ -1,0 +1,8 @@
+I"�<p><a href="/asset/filedownloadtest.zip" download="">파일 다운로드</a></p>
+
+<script>
+    document.getElementsByTagName('a')[0].click()
+    window.close()
+</script>
+
+:ET
