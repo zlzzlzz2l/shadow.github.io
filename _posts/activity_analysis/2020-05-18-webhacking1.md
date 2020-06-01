@@ -1,8 +1,9 @@
 ---
-title: 심심하다
-author: 채병권
+title: webhacking.kr 200점 이하 문제
+author: 김아현
 team: webhacking
 category: analysis
+layout: newspaper
 ---
 
-끄윽 내안의 흑염룡이~!!!
+작성 예정

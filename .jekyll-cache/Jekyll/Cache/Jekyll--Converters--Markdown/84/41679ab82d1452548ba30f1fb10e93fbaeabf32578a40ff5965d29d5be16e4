@@ -1,0 +1,73 @@
+I"�<div>
+    <table class="mytable" width="700" height="80">
+      <thead>
+        <tr>
+          <th style="text-align:center" width="200">날짜</th>
+          <th style="text-align:center">제목</th>
+          <th style="text-align:center" width="150">작성자</th>
+        </tr>
+      </thead>
+      <tbody>
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <tr height="50">
+        <td width="200">May 17, 2020</td>
+        <td><a href="/newspaper/2020/05/17/first/" target="_blank">2020년 데프콘</a></td>
+        <td width="150">관리자</td>
+      </tr>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <tr height="50">
+        <td width="200">May 18, 2020</td>
+        <td><a href="/newspaper/2020/05/18/second/" target="_blank">KISA 기사</a></td>
+        <td width="150">관리자</td>
+      </tr>
+    
+  
+    
+  
+    </tbody>
+  </table>
+</div>
+:ET

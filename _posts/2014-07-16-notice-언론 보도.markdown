@@ -10,18 +10,18 @@ category: Notice
     <table class="mytable" width="700" height="80">
       <thead>
         <tr>
-          <th style="text-align:center">날짜</th>
+          <th style="text-align:center" width="180">날짜</th>
           <th style="text-align:center">제목</th>
-          <th style="text-align:center">작성자</th>
+          <th style="text-align:center" width="100">작성자</th>
         </tr>
       </thead>
       <tbody>
   {% for post in site.posts reversed %}
     {% if post.category == "Newspaper" %}
-      <tr>
-        <td>{{ post.date | date: "%b %-d, %Y" }}</td>
+      <tr height="50">
+        <td width="180">{{ post.date | date: "%b %-d, %Y" }}</td>
         <td><a href="{{ post.url | prepend: site.baseurl }}" target="_blank">{{ post.title }}</a></td>
-        <td>{{ post.author }}</td>
+        <td width="100">{{ post.author }}</td>
       </tr>
     {% endif %}
   {% endfor %}
