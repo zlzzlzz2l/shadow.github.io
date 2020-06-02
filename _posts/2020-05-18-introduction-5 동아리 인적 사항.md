@@ -249,7 +249,7 @@ description: <strong>동아리 운영진</strong>과 <strong>리버싱</strong>,
                 </tr>
                 <tr>
                     <td>Portfolio</td>
-                    <td><a href="https://blog.naver.com/zlzzlzz2l">https://blog.naver.com/zlzzlzz2l</a></td>
+                    <td><a href="https://zlzzlzz2l.github.io/ahyun.github.io/">https://zlzzlzz2l.github.io/ahyun.github.io/</a></td>
                 </tr>
                 <tr>
                     <td>Page</td>
@@ -337,7 +337,7 @@ description: <strong>동아리 운영진</strong>과 <strong>리버싱</strong>,
                 </tr>
                 <tr>
                     <td>Page</td>
-                    <td>개인 페이지 입력</td>
+                    <td><a href="https://jspark33.tistory.com/">https://jspark33.tistory.com/</a></td>
                 </tr>
                 </table>
             </div>
