@@ -1,0 +1,11 @@
+I"k<div style="width: 100%; padding-left:100px; padding-right:100px">
+    <h2 style="text-align:center; border-top:1px solid #aaa; border-bottom:1px solid #aaa; padding: 20px; background-color:#f5f5f5">3월 세미나</h2>
+    <div style="text-align:center">
+        <img src="https://user-images.githubusercontent.com/48669011/83748224-d3fe7880-a69c-11ea-8ffb-371c8e948fd6.jpg" style="margin-top: 30px" />
+    </div>
+    <h5>첫 번째 순서로 Pwnable 팀의 정구현 학생이 "후배님의 테트리스를 해킹해보았습니다" 라는 제목으로 세미나를 진행하였고, Write up으로 FTZ 16번 문제를 발표했습니다.<br /></h5>
+    <h5>두 번째 순서로 Reversing의 구본상 학생이 "눈 떠보니 포맷이더라_백그라운드 멀웨어에 대해서" 라는 제목으로 세미나를 진행하였고, Write up으로 CodeEngn Basic RCE L11 문제를 발표했습니다.<br /></h5>
+    <h5>마지막 순서로 Webhacking의 박준서 학생이 "비밀번호를 몰라도 로그인을 할 수 있다구?" 라는 제목으로 세미나를 진행하였고, Write up으로 Webhacking.kr old-20번 문제를 발표했습니다.<br /><br /><br /></h5>
+    <h5 style="text-align: center; border-bottom: 1px solid #aaa; padding-bottom:20px">3월 공개 오픈 세미나는 코로나-19로 인해 온라인(유튜브 채널)으로 진행되었습니다.</h5>
+</div>
+:ET

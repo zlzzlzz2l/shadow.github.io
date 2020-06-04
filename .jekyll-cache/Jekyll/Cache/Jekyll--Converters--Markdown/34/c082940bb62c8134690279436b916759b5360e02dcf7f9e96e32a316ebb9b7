@@ -1,0 +1,67 @@
+I"<div>
+  <table class="mytable" width="700" height="80">
+      <thead>
+        <tr>
+          <th style="text-align:center" width="250">날짜</th>
+          <th style="text-align:center">제목</th>
+        </tr>
+      </thead>
+      <tbody>
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+            <tr height="50">
+              <td width="250">Mar 11, 2020</td>
+              <td><a href="/semina/2020/03/11/march_semina(2020)/" target="_blank">3월 세미나</a></td>
+            </tr>
+          
+        
+          
+            <tr height="50">
+              <td width="250">Apr 16, 2020</td>
+              <td><a href="/semina/2020/04/16/april_semina(2020)/" target="_blank">4월 세미나</a></td>
+            </tr>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+            <tr height="50">
+              <td width="250">May 15, 2020</td>
+              <td><a href="/semina/2020/05/15/may_semina(2020)/" target="_blank">5월 세미나</a></td>
+            </tr>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      </tbody>
+  </table>
+</div>
+:ET

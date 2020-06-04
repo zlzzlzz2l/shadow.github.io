@@ -1,0 +1,17 @@
+I"U<div style="width: 100%; padding-left:100px; padding-right:100px">
+    <h2 style="text-align:center; border-top:1px solid #aaa; border-bottom:1px solid #aaa; padding: 20px; background-color:#f5f5f5">4월 세미나</h2>
+    <div style="text-align:center">
+        <img src="https://user-images.githubusercontent.com/48669011/83749812-496b4880-a69f-11ea-899d-7eb4f9b8d7ab.jpg" width="900px" style="margin-top: 30px" />
+    </div>
+    <h5 style="width:900px; margin-left:90px">첫 번째 순서로 Reversing 팀의 김범석 학생이 "머신러닝, 네트워크 공격 예측 모델 구축" 이라는 제목으로 세미나를 진행하였고, Write up으로 the dutch cracker crackme-4 문제를 발표했습니다.<br /><br /></h5>
+    <div style="text-align:center">
+        <img src="https://user-images.githubusercontent.com/48669011/83750063-b252c080-a69f-11ea-8a1b-32db50f3bb52.jpg" width="900px" style="margin-top: 30px" />
+    </div>
+    <h5 style="width:900px; margin-left:90px">두 번째 순서로 Webhacking의 이다영 학생이 "클릭 한 번도 신중히" 라는 제목으로 세미나를 진행하였고,<br /> Write up으로 webgoat csrf 문제를 발표했습니다.<br /><br /></h5>
+    <div style="text-align:center">
+        <img src="https://user-images.githubusercontent.com/48669011/83750186-e201c880-a69f-11ea-908a-33eea8c7298f.jpg" width="900px" style="margin-top: 30px" />
+    </div>
+    <h5 style="width:900px; margin-left:90px">마지막 순서로 Pwnable의 김일한 학생이 "Codegate를 풀자" 라는 제목으로 세미나를 진행하였고, Write up으로 codegate babyllvm 문제를 발표했습니다.<br /><br /><br /></h5>
+    <h5 style="text-align: center; border-bottom: 1px solid #aaa; padding-bottom:20px">3월 공개 오픈 세미나는 코로나-19로 인해 온라인(유튜브 채널)으로 진행되었습니다.</h5>
+</div>
+:ET
